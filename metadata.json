@@ -1,0 +1,8 @@
+{
+  "name": "Odyssey AI",
+  "description": "Your ultimate intelligent travel companion featuring 3D exploration, immersive atmospheric effects, and personalized guidance.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
